@@ -7,7 +7,7 @@ intents = discord.Intents.default()
 intents.members = True
 
 client = commands.Bot(command_prefix = "!!", help_command=None, intents = intents)
-token = "ODg1OTA1ODUzNzYzNDUyOTI5.YTt2Hg.FEfGeHm90bmcCIX59B6AF3dMviI"
+token = ""
 
 list_language = ("anglais", "en", "allemand", "de", "espagnol", "es")
 dict_num_personne = {"1" : "1iere personne du singulier de", "2" : "2ieme personne du singulier de", "3" : "3eme personne du singulier de", "4" : "1iere personne du pluriel de", "5" : "2ieme personne du pluriel de", "6" : "3ieme personne du pluriel de"}
