@@ -1,0 +1,130 @@
+{
+    "en" : {
+
+    },
+    "es" : {
+        "traduction verbes irérugliers" : {
+            "type" : "trad",
+            "words" : [
+                ["andar", "marcher"],
+                ["caer", "tomber"],
+                ["dar", "donner"],
+                ["decir", "dire"],
+                ["estar", "être"],
+                ["haber", "aux avoir"],
+                ["hacer", "faire"],
+                ["ir", "aller"],
+                ["oir", "entendre"],
+                ["poder", "pouvoir"],
+                ["poner", "mettre"],
+                ["querer", "vouloir"],
+                ["saber", "savoir"],
+                ["salir", "sortir"],
+                ["ser", "être"],
+                ["tener", "avoir"],
+                ["traer", "apporter"],
+                ["venir", "venir"],
+                ["ver", "voir"]
+            ]
+        },
+        "vocabulaire 1 (30 mots)" : {
+            "type" : "trad-es",
+            "words" : [
+                ["une langue", ["una lengua", "un indioma"]],
+                ["le nationalisme", "el nacionalismo"],
+                ["dominer une langue", "dominar una lengua"],
+                ["l'identité culturelle", "la identidad cultural"],
+                ["servir les idées nationnal", "servir los ideales nacionales"],
+                ["l'héritage", ["la herencia", "el legado"]],
+                ["les coutumes", "las costumbres"],
+                ["transmettre", "transmitir"],
+                ["conserver", "conservar"],
+                ["une valeur", "un valor"],
+                ["la conaissance", "el conocimiento"],
+                ["le savoir ancestral", "el saber ancestral"],
+                ["revendiquer", "reivindicar"],
+                ["permettre de", "permitir"],
+                ["l'intégration", "la integracio'n"],
+                ["conaître les traditions", "conocer las tradiciones"],
+                ["une comunauté autonome", "una comunidad auto'nomia"],
+                ["un autoctone", "un auto'ctono"],
+                ["un peuple/un village", "un pueblo"],
+                ["le peuble indigène", "el pueblo indi'gena"],
+                ["un avantage", "una ventaja"],
+                ["une accolade", "un abrazo"],
+                ["les autres", ["los otros", "los dema's"]],
+                ["les étrangers", "los extranjeros"],
+                ["respecter", "respetar"],
+                ["le racisme", "el racismo"],
+                ["favoriser la tolérance", "favorecer la tolerancia"],
+                ["le comunautarisme", "el comunitarismo"],
+                ["la discrimination", "la discriminacio'n"],
+                ["rejeter", "rechazar"]
+            ]
+        },
+        "conjugaison verbes irérugliers" : {
+            "type" : "conj",
+            "words" : [
+                ["andar", "marcher", {"1" : "ando", "2" : "andas", "3" : "anda", "4" : "andamos", "5" : "anda'is", "6" : "andan"}],
+                ["caer", "tomber", {"1" : "caigo", "2" : "caes", "3" : "cae", "4" : "caemos", "5" : "caéis", "6" : "caen"}],
+                ["dar", "donner", {"1" : "doy", "2" : "das", "3" : "da", "4" : "damos", "5" : "dais", "6" : "dan"}],
+                ["decir", "dire", {"1" : "digo", "2" : "dices", "3" : "dice", "4" : "decimos", "5" : "deci's", "6" : "dicen"}],
+                ["estar", "être", {"1" : "estoy", "2" : "esta's", "3" : "esta'", "4" : "estamos", "5" : "esta'is", "6" : "esta'n"}],
+                ["haber", "aux avoir", {"1" : "he", "2" : "has", "3" : "ha", "4" : "hemos", "5" : "habéis", "6" : "han"}],
+                ["hacer", "faire", {"1" : "hago", "2" : "haces", "3" : "hace", "4" : "hacemos", "5" : "hacéis", "6" : "hacen"}],
+                ["ir", "aller", {"1" : "voy", "2" : "vas", "3" : "va", "4" : "vamos", "5" : "vais", "6" : "van"}],
+                ["oir", "entendre", {"1" : "oigo", "2" : "oyes", "3" : "oye", "4" : "oi'mos", "5" : "oi's", "6" : "oyen"}],
+                ["poder", "pouvoir", {"1" : "puedo", "2" : "puedes", "3" : "puede", "4" : "podemos", "5" : "podéis", "6" : "pueden"}],
+                ["poner", "mettre", {"1" : "pongo", "2" : "pones", "3" : "pone", "4" : "ponemos", "5" : "ponéis", "6" : "ponen"}],
+                ["querer", "vouloir", {"1" : "quiero", "2" : "quieres", "3" : "quiere", "4" : "queremos", "5" : "queréis", "6" : "quieren"}],
+                ["saber", "savoir", {"1" : "sé", "2" : "sabes", "3" : "sabe", "4" : "sabemos", "5" : "sabéis", "6" : "saben"}],
+                ["salir", "sortir", {"1" : "salgo", "2" : "sales", "3" : "sale", "4" : "salemos", "5" : "saléis", "6" : "salen"}],
+                ["ser", "être", {"1" : "soy", "2" : "eres", "3" : "es", "4" : "somos", "5" : "soi's", "6" : "son"}],
+                ["tener", "avoir", {"1" : "tengo", "2" : "tienes", "3" : "tiene", "4" : "tenemos", "5" : "tenéis", "6" : "tienen"}],
+                ["traer", "apporter", {"1" : "traigo", "2" : "traes", "3" : "trae", "4" : "traemos", "5" : "traéis", "6" : "traen"}],
+                ["venir", "venir", {"1" : "vengo", "2" : "vienes", "3" : "viene", "4" : "venemos", "5" : "venéis", "6" : "vienen"}],
+                ["ver", "voir", {"1" : "veo", "2" : "ves", "3" : "ve", "4" : "vemos", "5" : "veis", "6" : "ven"}]
+            ]
+        },"vocabulaire 3 (30 mots)" : {
+            "type" : "trad-es",
+            "words" : [
+                ["le tourisme de masse", "el turismo de masas"],
+                ["un/une tourise", "un/una turista"],
+                ["voyager", "viajar"],
+                ["se transformer en", ["convertirse en", "transformarse en"]],
+                ["se divertir", "divertirse (e-ie)"],
+                ["petit déjeuner/déjeuner/diner", "desayunar/comer/cenar"],
+                ["être en bord de mer", "estar en primera linea de playa"],
+                ["une forêt", "un bosque"],
+                ["l'environnement", "el medio ambiente"],
+                ["le bruit", ["el bullicio", "el ruido"]],
+                ["la spéculation", "la especulacio'n"],
+                ["se baigner dans la me Méditerranée", "ban~arse en el mar mediterra'neo"],
+                ["aller en vacance", "ir de vacaciones"],
+                ["prendre un verre", "tomar una copa"],
+                ["le tourisme d'été", ["el turismo de verano", "!= el turismo de invierno"]],
+                ["la pollution", "la contaminacio'n"],
+                ["l'écosystème", "el ecosistema"],
+                ["l'industrie du loisir", ["la industria del ocio", "!= la industria tradicional"]],
+                ["le tourisme vert", ["el turismo verde", "el turismo rural"]],
+                ["le littoral", ["la costa", "el litoral"]],
+                ["la restauration rapide", "la restoracio'n ra'pida"],
+                ["un gratte ciel", "un rascacielos"],
+                ["respecter/le respect", "respetar/el respeto"],
+                ["paradisique", "paradisi'aco,a"],
+                ["bronzer", ["tomar el sol", "broncear"]],
+                ["sale", "sucio,a"],
+                ["la croissance", "el crecimiento"],
+                ["l'enlaidissement", "el afeamiento"],
+                ["se reposer", "descansar"],
+                ["être entassé", "estar amontonado"]
+            ]
+        }
+    },
+    "de" : {
+
+    },
+    "it" : {
+        
+    }
+}
